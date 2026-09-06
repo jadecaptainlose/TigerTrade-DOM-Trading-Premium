@@ -1,0 +1,23 @@
+{
+  "repo": "tigertrade-dom-trading-premium",
+  "product": "TigerTrade DOM Trading Premium",
+  "kind": "finance",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "finance",
+  "topics": [
+    "tigertrade",
+    "dom-trading",
+    "order-book",
+    "tape-reading",
+    "fast-execution",
+    "tigertrade-setup-failed-fix",
+    "how-to-install-tigertrade",
+    "tigertrade-windows",
+    "tigertrade-desktop-2026",
+    "tigertrade-desktop-package"
+  ],
+  "site": "toolix.me"
+}
